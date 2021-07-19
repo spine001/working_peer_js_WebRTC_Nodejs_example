@@ -23,12 +23,12 @@
   background-color: var(--main-darklg);
 }
 
-.logo > h3 {
+.logo>h3 {
   color: var(--main-light);
 }
 
 .main {
-  overflow: hidden;
+  overflow: scroll;
   height: 92vh;
   display: flex;
 }
